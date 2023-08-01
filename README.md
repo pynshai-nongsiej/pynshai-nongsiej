@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi I'm Pynshai Currently A Highschool Student Always Imagining
 
-📚 I’m currently studying in highschool<br>💻 I’m currently learning CSS and JavaScript<br>💬 Ask me about anything related to Python or MySql<br>⚡ Fun fact : I use to forget anything that i dont want to and dont forget the wants i want🤪
+📚 I’m currently studying in highschool<br>💻 I’m currently learning more about CSS and JavaScript<br>💬 Ask me about anything related to Python or MySql<br>⚡ Fun fact : I use to forget anything that i dont want to and dont forget the wants i want🤪
 
 
 ## 🌐 Socials:
