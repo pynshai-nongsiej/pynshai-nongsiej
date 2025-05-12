@@ -17,11 +17,6 @@ Welcome to my GitHub! I'm a passionate developer exploring a variety of language
 
 ---
 
-## 🔥 GitHub Streak:
-
-![Pynshai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pynshaixcx&theme=dark&hide_border=true)
-
----
 
 ## 🏆 GitHub Trophies:
 
