@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate developer exploring a variety of language
 
 ## 🏆 GitHub Trophies:
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pynshaixcx&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pynshai-nongsiej&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
