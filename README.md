@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate developer exploring a variety of language
 
 ## 📈 GitHub Stats:
 
-![Pynshai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pynshaixcx&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&line_height=30)
+![Pynshai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pynshai-nongsiej&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&line_height=30)
 
 ---
 
